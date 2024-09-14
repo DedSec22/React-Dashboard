@@ -3,7 +3,7 @@ import { MouseEvent } from "react";
 function ListGroup() {
     let items = [ 'New York', "San Francisco", 'Tokyo', 'London', 'Paris' ];
 
-    items = [];
+    // items = [];
 
     // CAN  USE FUNCTION TO USE IF CONDITION BELOW
     const ifEmpty = () => {
